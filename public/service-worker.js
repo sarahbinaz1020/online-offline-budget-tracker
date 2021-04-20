@@ -1,5 +1,4 @@
-const FILES_TO_CACHE = [
-  '/',  
+const FILES_TO_CACHE = [  
   '/index.html',
   '/styles.css',
   '/db.js',
